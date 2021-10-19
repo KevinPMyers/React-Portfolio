@@ -36,7 +36,95 @@
     transform: rotate(360deg);
   }
 }
-
-.nav-item{
-  text-align: center;
+body {
+  background-color:gray;
 }
+
+.about-foot {
+  text-align: center;
+  padding-top: 20px;
+  font-size: 25px;
+}
+#hero {
+  padding: 30px;
+  background-size: auto;
+  justify-content: space-between;
+  
+  }
+  .nav-item {
+    justify-content: space-between;
+  }
+  .nav-item :hover{
+    
+    padding: 10px;
+    background-color:rgb(155, 155, 155);
+    transition: transform .1s;
+    border-radius: 20px;
+    
+  }
+
+.about-container{
+  border: 2px;
+  align-content: center;
+  
+}
+
+.about-me {
+  padding: 10px 70px;
+  
+  display: block;
+}
+
+.about-title {
+  text-align: center;
+  padding-bottom: 25px;
+  
+}
+
+.pictures{
+  align-items: center;
+  padding: 0 40%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#intro {
+  font-size: 25px;
+  text-align: center;
+  border-bottom: 1px solid;
+  padding-right: 15px;
+}
+
+#description {
+  font-size: 25px;
+  font-weight: 400;
+  text-align: center;
+  padding: 50px 50px 50px 50px;
+}
+
+#selfie{
+  border-radius: 5px;
+  padding-bottom: 20px;
+  padding-left: 100px;
+}
+
+#hook {
+  padding-right: 70px;
+}
+
+#navName {
+  color: antiquewhite;
+  padding: 1px;
+}
+
+#about-container {
+  background-color: honeydew;
+  border-radius: 5px;
+}
+
+.footer {
+  padding-top: 50px;
+}
+
+
+

@@ -1,5 +1,5 @@
 import React from 'react';
-import hero from "../../assets/images/hero.jpg"
+import hero from "../../assets/images/alt-banner.jpg"
 const Nav = (props) => {
     
     return(
@@ -16,7 +16,7 @@ const Nav = (props) => {
                 </li>
                 <br></br>
                 <li className="nav-item">
-                    <a className="nav-link h4" href="#projects" onClick={() => props.handlePageChange('Projects')}> Projects </a>
+                    <a className="nav-link h4" href="#portfolio" onClick={() => props.handlePageChange('Portfolio')}> Portfolio </a>
                 </li>
                 <li className="nav-item">
                     <a className="nav-link h4" href="#contact" onClick={() => props.handlePageChange('Contact')}> Contact </a>

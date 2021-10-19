@@ -12,7 +12,7 @@ const Header = () => {
         switch (currentPage) {
             case 'Contact':
                 return <Contact />;
-            case 'Projects':
+            case 'Portfolio':
                 return <Portfolio />
             case 'Resume':
                 return <Resume />
