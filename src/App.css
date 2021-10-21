@@ -52,18 +52,24 @@ body {
   
   }
   .nav-item {
+    margin: 0;
+    padding: 0;
     justify-content: space-between;
+    display: flex;
+    list-style-type: none;
   }
   .nav-item :hover{
     
     padding: 10px;
-    background-color:rgb(155, 155, 155);
-    transition: transform .1s;
-    border-radius: 20px;
+    color: aliceblue;
+    transition: transform 0.2s ease-in-out;
+    
     
   }
 
 .about-container{
+  display: flex;
+  flex-wrap: wrap;
   border: 2px;
   align-content: center;
   
@@ -72,7 +78,8 @@ body {
 .about-me {
   padding: 10px 70px;
   
-  display: block;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .about-title {
@@ -103,7 +110,7 @@ body {
 }
 
 #selfie{
-  border-radius: 5px;
+  border-radius: 7px;
   padding-bottom: 20px;
   padding-left: 100px;
 }
@@ -118,13 +125,15 @@ body {
 }
 
 #about-container {
-  background-color: honeydew;
+  background-color: rgb(65, 143, 196);
   border-radius: 5px;
 }
 
 .footer {
   padding-top: 50px;
 }
+
+
 
 
 
