@@ -1,28 +1,28 @@
 [
     {
         "name": "10 Speed",
-        "image": "10speed.png",
+        "image": "10speed-1920x1080.png",
         "liveLink": "https://ehajek.github.io/10Speed/",
         "githubRepo": "https://github.com/ehajek/10Speed.git",
         "technologies": ""
     },
     {
         "name": "Binge Bucket",
-        "image": "BingeBucket.jpg.png",
+        "image": "BingeBucket-1920x1080.jpg",
         "liveLink": "https://whispering-everglades-56821.herokuapp.com/",
         "githubRepo": "https://github.com/meck512/BingeBucket",
         "technologies": ""
     },
     {
         "name": "Run Buddy",
-        "image": "run-buddy.jpg.png",
+        "image": "run-buddy-1920x1080.jpg",
         "liveLink": "https://kevinpmyers.github.io/run-buddy/",
         "githubRepo": "https://github.com/KevinPMyers/run-buddy",
         "technologies": ""
     },
     {
         "name": "Note Taker",
-        "image": "NoteTaker.png",
+        "image": "NoteTaker-1920x1080.png",
         "liveLink": "https://rocky-spire-22274.herokuapp.com/",
         "githubRepo": "https://github.com/KevinPMyers/note-taker",
         "technologies": ""
@@ -30,14 +30,14 @@
     },
     {
         "name": "Budget Tracker",
-        "image": "budget-tracker.PNG",
+        "image": "budget-tracker-1920x1080.PNG",
         "liveLink": "https://rocky-wildwood-87765.herokuapp.com/",
         "githubRepo": "https://github.com/KevinPMyers/Budget-Tracker-PWA",
         "technologies": ""
     },
     {
         "name": "Tech Blog",
-        "image": "tech-blog.PNG",
+        "image": "tech-blog-1920x1080.PNG",
         "liveLink": "https://cryptic-dawn-67409.herokuapp.com/",
         "githubRepo": "https://github.com/KevinPMyers/TechBlog",
         "technologies": ""

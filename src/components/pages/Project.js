@@ -11,7 +11,7 @@ function ProjectLayout(props) {
                     <Card.Text style={{ display: "flex", justifyContent: "center"}}>
                         <p style={{justifyContent: "center"}}>{props.name}</p>
                         <div>
-                        <Button href={props.liveLink} variant="outline-dark" className="m-2">Live URL</Button>
+                        <Button fluid="sm" href={props.liveLink} variant="outline-dark" className="m-2">Live URL</Button>
                         <Button href={props.githubRepo} variant="outline-dark" className="m-2">Github</Button>
                         </div>
                     </Card.Text>

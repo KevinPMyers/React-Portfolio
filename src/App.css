@@ -37,7 +37,7 @@
   }
 }
 body {
-  background-color:gray;
+  background-color:rgb(121, 120, 122);
 }
 
 .about-foot {
@@ -82,8 +82,8 @@ body {
   flex-wrap: wrap;
 }
 
-.about-title {
-  text-align: center;
+#about-title {
+  justify-content: center;
   padding-bottom: 25px;
  
   
@@ -97,27 +97,28 @@ body {
 }
 
 #intro {
-  font-size: 25px;
-  text-align: center;
-  border-bottom: 1px solid;
-  padding-right: 15px;
-}
-
-#description {
-  font-size: 25px;
-  font-weight: 400;
-  text-align: center;
-  padding: 50px 50px 50px 50px;
-}
-
-#selfie{
-  border-radius: 7px;
   padding-bottom: 20px;
-  padding-left: 100px;
+  border-bottom: 1px black;
+  justify-content: center;
+  padding-top: 30px;
+}
+
+.description {
+  font-size: 20px;
+  font-weight: 400;
+  justify-content: center;
+  
+  
+}
+
+#selfie {
+  border-radius: 10px 10px 10px 10px;
+  padding-top: 20px;
+  
 }
 
 #hook {
-  padding-right: 70px;
+  font-size: 22px;
 }
 
 #navName {
@@ -127,7 +128,7 @@ body {
 
 #about-container {
   background-color: rgb(65, 143, 196);
-  border-radius: 5px;
+  border-radius: 20px;
 }
 
 .footer {
