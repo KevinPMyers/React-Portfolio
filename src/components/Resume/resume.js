@@ -1,5 +1,5 @@
 import React from "react";
-import { Container, Row, Card, Col } from "react-bootstrap";
+import { Container, Card } from "react-bootstrap";
 import Resume1 from "../../assets/images/Resume-1.PNG";
 import Resume2 from "../../assets/images/Resume-2.PNG";
 
