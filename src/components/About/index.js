@@ -1,26 +1,28 @@
 import React from 'react';
 import PortfolioHeadshot from '../../assets/images/smallHeadShot-256x256.jpg'
+import { Container, Row, Col } from 'react-bootstrap';
 const About = () => {
 
     return (
-        <div className="container" id="about-container">
+        <Container className="container" id="about-container">
         
-            <div className="about-title">
+            <Row className="about-title">
                 <h1>About Me</h1>
-            </div>
-            <br />
-            <div className="row" id="intro">
-                <div className="col-6">
-                    <img id='selfie' alt='myself' src={PortfolioHeadshot}  className="aboutPic"></img>
-                </div>
                 
-                <div className="col-6" id="hook">
+                <Col className="col-6">
+                    <img id='selfie' alt='myself' src={PortfolioHeadshot}  className="aboutPic"></img>
+                </Col>
+                
+                <Col className="col-6" id="hook">
                 <p> Welcome to my Portfolio! My name is Kevin Myers, I am a 10 year fine dining veteran turned web developer, currently 
                 completing Case Western Reserve University's full stack web development program. With both relational/non-relational databases and React applications
                 particularly garnering my interest. 
                 </p>
-                </div>
-            </div>
+                </Col>
+            
+            </Row>
+            
+            
             
             <br />
             <div className="row" id="description">
@@ -47,7 +49,7 @@ const About = () => {
             </footer>
 
         
-        </div>
+        </Container>
     )
 }
 
