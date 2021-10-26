@@ -1,4 +1,6 @@
 # Kevin Myers React Portfolio
+
+## Preview
 ![Landing Page](src\assets\images\react-portfolio.PNG)
 ## Description
 First attempt at my own React page!
@@ -53,5 +55,11 @@ THEN I see a link to a downloadable resume and a list of the developer’s profi
 WHEN I view the footer
 
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
+
+## Made By:
+Kevin Myers
+
+## Contact
+Email: kmyers25@gmail.com
 
 
