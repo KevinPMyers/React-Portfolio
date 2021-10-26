@@ -2,7 +2,7 @@ import React, {useState} from 'react';
 import About from '../About';
 import Contact from '../Contact';
 import Nav from '../Nav';
-import Portfolio from '../Portfolio/portfolio';
+import Portfolio from '../pages/portfolio';
 import Resume from '../Resume/resume';
 
 const Header = () => {
