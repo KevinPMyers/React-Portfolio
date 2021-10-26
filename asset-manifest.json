@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.3a8ae29f.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.9adb272b.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.9adb272b.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.7275fc34.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.7275fc34.js.map",
+    "static/js/2.b0423bdc.chunk.js": "/React-Portfolio/static/js/2.b0423bdc.chunk.js",
+    "static/js/2.b0423bdc.chunk.js.map": "/React-Portfolio/static/js/2.b0423bdc.chunk.js.map",
+    "static/js/3.cd9cab76.chunk.js": "/React-Portfolio/static/js/3.cd9cab76.chunk.js",
+    "static/js/3.cd9cab76.chunk.js.map": "/React-Portfolio/static/js/3.cd9cab76.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/main.3a8ae29f.chunk.css.map": "/React-Portfolio/static/css/main.3a8ae29f.chunk.css.map",
+    "static/js/2.b0423bdc.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.b0423bdc.chunk.js.LICENSE.txt",
+    "static/media/10speed-1920x1080.png": "/React-Portfolio/static/media/10speed-1920x1080.93329fd1.png",
+    "static/media/BingeBucket-1920x1080.jpg": "/React-Portfolio/static/media/BingeBucket-1920x1080.85c839b8.jpg",
+    "static/media/NoteTaker-1920x1080.png": "/React-Portfolio/static/media/NoteTaker-1920x1080.6b24d885.png",
+    "static/media/Resume-1.PNG": "/React-Portfolio/static/media/Resume-1.7c5a96a9.PNG",
+    "static/media/Resume-2.PNG": "/React-Portfolio/static/media/Resume-2.f0a96d20.PNG",
+    "static/media/alt-banner.jpg": "/React-Portfolio/static/media/alt-banner.ced03991.jpg",
+    "static/media/budget-tracker-1920x1080.PNG": "/React-Portfolio/static/media/budget-tracker-1920x1080.6b73691a.PNG",
+    "static/media/envelope-fill.svg": "/React-Portfolio/static/media/envelope-fill.7f922cc3.svg",
+    "static/media/github.svg": "/React-Portfolio/static/media/github.22e65707.svg",
+    "static/media/hero.jpg": "/React-Portfolio/static/media/hero.9aefe28b.jpg",
+    "static/media/linkedin.svg": "/React-Portfolio/static/media/linkedin.2eda7bdd.svg",
+    "static/media/react-portfolio.PNG": "/React-Portfolio/static/media/react-portfolio.4de9613e.PNG",
+    "static/media/run-buddy-1920x1080.jpg": "/React-Portfolio/static/media/run-buddy-1920x1080.11b2dbaa.jpg",
+    "static/media/smallHeadShot-256x256.jpg": "/React-Portfolio/static/media/smallHeadShot-256x256.6a8da1bb.jpg",
+    "static/media/tech-blog-1920x1080.PNG": "/React-Portfolio/static/media/tech-blog-1920x1080.e89187e7.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7275fc34.js",
+    "static/js/2.b0423bdc.chunk.js",
+    "static/css/main.3a8ae29f.chunk.css",
+    "static/js/main.9adb272b.chunk.js"
+  ]
+}
