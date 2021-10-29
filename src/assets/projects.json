@@ -36,10 +36,10 @@
         "technologies": ""
     },
     {
-        "name": "Tech Blog",
+        "name": "Procrasta-Date",
         "image": "tech-blog-1920x1080.PNG",
-        "liveLink": "https://cryptic-dawn-67409.herokuapp.com/",
-        "githubRepo": "https://github.com/KevinPMyers/TechBlog",
+        "liveLink": "https://procrasta-date.herokuapp.com/",
+        "githubRepo": "https://github.com/KevinPMyers/Procrasta-Date",
         "technologies": ""
     }
 ]
